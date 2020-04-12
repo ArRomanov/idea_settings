@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
